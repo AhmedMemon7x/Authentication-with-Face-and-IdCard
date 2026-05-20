@@ -2,6 +2,6 @@ fastapi
 uvicorn
 python-multipart
 deepface
-tensorflow==2.15.0
 tf-keras
-opencv-python
+opencv-python-headless
+tensorflow-cpu
