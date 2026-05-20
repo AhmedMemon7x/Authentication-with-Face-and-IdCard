@@ -4,4 +4,5 @@ python-multipart
 deepface
 tf-keras
 opencv-python-headless
-tensorflow-cpu
+numpy
+pandas
